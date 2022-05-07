@@ -1,0 +1,5 @@
+/target
+
+# Cargo.lock is gitignored. We don't want to have to ship a new version of our
+# library every time one of our dependencies updates one of their dependencies!
+/Cargo.lock
